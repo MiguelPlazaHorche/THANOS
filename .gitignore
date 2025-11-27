@@ -137,9 +137,12 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+<<<<<<< HEAD
 
-node_modules/
-.env
-dist/
-.vscode/
+=======
+>>>>>>> a68775f43bc00a37357908c0196d18e109f0c0fc
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> a68775f43bc00a37357908c0196d18e109f0c0fc
