@@ -44,6 +44,6 @@ Usuario → /register → /login → /chat → Mensajes
 
 Este flujo representa el recorrido básico del usuario desde el registro hasta la interacción en el chat.
 
-Este esquema permite avanzar con el desarrollo del frontend de forma independiente, demostrando funcionalidad real mientras se espera la activación del backend. Es ideal para mostrar progreso en el portfolio y preparar la integración técnica en fases posteriores.
 
-¿Quieres que te ayude a redactar también la sección de instalación, dependencias o instrucciones de despliegue para completar el README?
+
+
